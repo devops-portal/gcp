@@ -36,5 +36,5 @@ Modern cloud storage solutions scale your data layer automatically so you can fo
 
 [**Cloud Firestore**](https://firebase.google.com/products/firestore/): NoSQL database which stores data as document objects similar to Cloud Datastore, but provides powerful native mobile SDKs so that your iOS, Android, and web apps can access directly. Data is also cached locally to allow offline use and is synchronized to Cloud Firestore when the device comes online. Cloud Firestore has built-in security for mobile access via Firebase Authentication and Cloud Firestore Security Rules for iOS and Android.
 
-![Image of GCP storage](https://github.com/lliquidvinall/gcp/images/GCP_storage.jpeg)
+![Image of GCP storage](https://github.com/lliquidvinall/gcp/blob/main/images/GCP_storage.jpeg)
 
